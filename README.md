@@ -1,6 +1,14 @@
 # AppSophos
 
-**TODO: Add description**
+**Asignación: Pattern matching, funciones, listas**
+
+* Crear una función para calcular la longitud de una lista: [Aquí](https://github.com/patriciauz/Elixir_capacitacionSophos/blob/main/lib/AppSophos/count.ex)
+
++ Crear una función que aplique una función en cada elemento de una lista, y me regrese una lista con los elementos resultados: [Aquí](https://github.com/patriciauz/Elixir_capacitacionSophos/blob/main/lib/AppSophos/count.ex)
+
+* Implementar el FizzBuzz con Elixir: [Aquí](https://github.com/patriciauz/Elixir_capacitacionSophos/blob/main/lib/AppSophos/fizzBuxx.ex)
+
+
 
 ## Installation
 
