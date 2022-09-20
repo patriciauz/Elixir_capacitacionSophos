@@ -8,6 +8,8 @@
 
 * Implementar el FizzBuzz con Elixir: [Aquí](https://github.com/patriciauz/Elixir_capacitacionSophos/blob/main/lib/AppSophos/fizzBuxx.ex)
 
+* procesos con ping pong: [Aquí](https://github.com/patriciauz/Elixir_capacitacionSophos/blob/main/lib/AppSophos/pingpongProcess.ex)
+
 
 
 ## Installation
